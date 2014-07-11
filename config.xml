@@ -15,4 +15,6 @@
         Parker Beeson 
     </author>
 
+    <preference name="fullscreen" value="false" />
+
 </widget>
